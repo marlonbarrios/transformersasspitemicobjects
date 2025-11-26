@@ -1,4 +1,4 @@
-# Transformers as Epistemic Objects: On form, growth, movement and meaning
+# Transformers as Epistemic Objects: On form, Growth, Movement and Sense-making
 by Marlon Barrios Solano
 11/26/2025
 
@@ -88,7 +88,7 @@ The knowledge enacted by transformers differs in fundamental ways from symbolic,
 
 In sum, transformer epistemology is pattern-based, relational, continuous, and opaque, whereas human epistemology is often symbolic, discrete, causal, and explainable. Neither is “better” in general – they have different strengths. Transformers can detect patterns and scale across data far beyond human capacity, revealing implicit structures (e.g. linguistic regularities or protein contact patterns) that we might not formalize easily. But they also lack understanding, in the sense of intentionality, meaning, and grounded truth-testing. This difference is crucial for researchers and artists working with these models: one must remember that a transformer enacts a kind of knowledge alien to our own. It requires new interpretative strategies to use creatively or scientifically.
 
----
+
 
 ## Current Research and Discourse Across Domains
 
