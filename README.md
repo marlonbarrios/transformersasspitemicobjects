@@ -1,4 +1,6 @@
 # Transformers as Epistemic Objects in Synthetic Cognition and the Arts
+by Marlon Barrios Solano
+11/26/2025
 
 ## Introduction
 
