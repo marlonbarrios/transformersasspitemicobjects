@@ -1,4 +1,4 @@
-# Transformers as Epistemic Objects in Synthetic Cognition and the Arts
+# Transformers as Epistemic Objects: On form, growth, movement and meaning
 by Marlon Barrios Solano
 11/26/2025
 
